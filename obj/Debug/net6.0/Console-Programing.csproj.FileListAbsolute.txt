@@ -1,0 +1,15 @@
+C:\Users\90554\Desktop\Projects\Console-Programing\bin\Debug\net6.0\Console-Programing.exe
+C:\Users\90554\Desktop\Projects\Console-Programing\bin\Debug\net6.0\Console-Programing.deps.json
+C:\Users\90554\Desktop\Projects\Console-Programing\bin\Debug\net6.0\Console-Programing.runtimeconfig.json
+C:\Users\90554\Desktop\Projects\Console-Programing\bin\Debug\net6.0\Console-Programing.dll
+C:\Users\90554\Desktop\Projects\Console-Programing\bin\Debug\net6.0\ref\Console-Programing.dll
+C:\Users\90554\Desktop\Projects\Console-Programing\bin\Debug\net6.0\Console-Programing.pdb
+C:\Users\90554\Desktop\Projects\Console-Programing\obj\Debug\net6.0\Console-Programing.csproj.AssemblyReference.cache
+C:\Users\90554\Desktop\Projects\Console-Programing\obj\Debug\net6.0\Console-Programing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90554\Desktop\Projects\Console-Programing\obj\Debug\net6.0\Console-Programing.AssemblyInfoInputs.cache
+C:\Users\90554\Desktop\Projects\Console-Programing\obj\Debug\net6.0\Console-Programing.AssemblyInfo.cs
+C:\Users\90554\Desktop\Projects\Console-Programing\obj\Debug\net6.0\Console-Programing.csproj.CoreCompileInputs.cache
+C:\Users\90554\Desktop\Projects\Console-Programing\obj\Debug\net6.0\Console-Programing.dll
+C:\Users\90554\Desktop\Projects\Console-Programing\obj\Debug\net6.0\ref\Console-Programing.dll
+C:\Users\90554\Desktop\Projects\Console-Programing\obj\Debug\net6.0\Console-Programing.pdb
+C:\Users\90554\Desktop\Projects\Console-Programing\obj\Debug\net6.0\Console-Programing.genruntimeconfig.cache
